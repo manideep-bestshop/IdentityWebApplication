@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\pages\\user.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\pages\\user.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|c:\\myfolders\\work\\aspnetcoreapplications\\identitycorewebapp\\identitywebapplication\\identitywebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887D5101-57B7-4BAC-AA1D-57CDFDA12982}|IdentityWebApplication\\IdentityWebApplication.csproj|solutionrelative:identitywebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cshtml.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\User.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Pages\\User.cshtml.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\User.cshtml.cs",
+              "RelativeToolTip": "IdentityWebApplication\\Pages\\User.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:33:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cshtml",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\User.cshtml",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Pages\\User.cshtml",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\User.cshtml",
+              "RelativeToolTip": "IdentityWebApplication\\Pages\\User.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T11:32:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "IdentityWebApplication\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAADwv4oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:27:05.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Program.cs",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Program.cs",
+              "RelativeToolTip": "IdentityWebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:20:00.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IdentityWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T19:26:46.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "IdentityWebApplication\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\MyFolders\\Work\\AspNetCoreApplications\\IdentityCoreWebApp\\IdentityWebApplication\\IdentityWebApplication\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "IdentityWebApplication\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T06:31:47.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
